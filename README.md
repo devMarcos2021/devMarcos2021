@@ -1,5 +1,5 @@
 Olá, me chamo Marcos Oliveira, sou estudante de programação e tenho 30 anos de idade. 
- Meu interesse pela área de tecnologia surgiu quando senti a necessidade de não ser apenas um consumidor de tecnologia e sim fazer parte do desenvolvimento dela. Desde então, deixei meu emprego e me dedico quase o dia todo a aperfeiçoar meus conhecimentos em programação.
+ Meu interesse pela área de tecnologia surgiu quando senti a necessidade de não ser apenas um consumidor de tecnologia e sim fazer parte do desenvolvimento dela. 
 
 Estou interessado em conseguir um estágio de emprego na área de programação onde meu maior objetivo é adquirir conhecimentos mais profundos na área bem como cooperar com a equipe entregando o meu melhor. 
 
