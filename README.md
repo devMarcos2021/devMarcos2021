@@ -1,10 +1,7 @@
-Olá, me chamo Marcos Oliveira, sou estudante de programação e tenho 30 anos de idade. 
- Meu interesse pela área de tecnologia surgiu quando senti a necessidade de não ser apenas um consumidor de tecnologia e sim fazer parte do desenvolvimento dela. 
+Hi, my name is Marcos Oliveira, I'm a programming student and I'm 30 years old.
 
-Estou interessado em conseguir um estágio de emprego na área de programação onde meu maior objetivo é adquirir conhecimentos mais profundos na área bem como cooperar com a equipe entregando o meu melhor. 
+I'm interested in getting a job internship in the programming field where my biggest goal is to acquire deeper knowledge in the field as well as cooperate with the team delivering my best.
 
-Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas. Possuo conhecimento básico em HTML5, CSS3 e JavaScript e já desenvolvi alguns sites simples em WordPress. Atualmente tenho me dedicado a aprender versionamento de código, pois sei que é algo essencial para um programador.
+I currently have knowledge in HTML5, CSS3 and JavaScript and I've developed some simple WordPress sites. Currently I'm dedicated to learning code versioning, because I know it's something essential for a programmer.
 
-Procuro colaborar oferecendo o meu melhor para a comunidade, tenho apenas um ano de experiência, mas tenho me dedicado muito a aprender os fundamentos da lógica para ter um conhecimento sólido em programação.
-
-Para entrar em contato comigo por favor envie um e-mail para — estude.pesquise@gmail.com.
+my contact: estude.pesquise@gmail.com
